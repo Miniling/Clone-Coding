@@ -1,0 +1,18 @@
+#container.sub_page {
+    background-color: #eeecec;
+    padding: 180px 0 100px 0;
+}
+#container {
+    background-color: #eeecec;
+    padding: 180px 0 100px 0;
+    width: 90%;
+    margin: 0 auto;
+}
+.hansotMenu {
+    display: block;
+    height: 140px;
+    width: 100%;
+    background-color: white;
+    padding: 53px 0 0 30px;
+    box-sizing: border-box;
+}
