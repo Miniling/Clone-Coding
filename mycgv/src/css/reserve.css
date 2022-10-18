@@ -1,0 +1,33 @@
+#mycgv {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.chartTop {
+    display: flex;
+    min-width: 980px;
+    border-bottom: 3px solid;
+}
+
+.title {
+    width: 80%;
+}
+
+.chartMenu {
+    width: 20%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding-bottom: 15px;
+}
+
+.link1 {
+    color: red;
+    font-weight: bold;
+}
+
+.link2 {
+    margin-left: 50px;
+    color: darkgray;
+    font-weight: bold;
+}
